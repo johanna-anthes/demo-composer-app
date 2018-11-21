@@ -1,0 +1,14 @@
+{
+"integrations": {
+  
+  },
+  "update_behavior": {
+        "source_branch": "dev-demo",
+        "destination_branch": "dev\/updates\/[task:id]",
+        "auto_start_updates": "no",
+        "skip_manual_testing": "no"
+    },
+  "events": {
+ 
+  }
+}
